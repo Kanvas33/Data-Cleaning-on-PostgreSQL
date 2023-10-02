@@ -1,5 +1,6 @@
 # Housing Data Cleaning and Transformation project
-## Open the file named 'Wine Review Analysis.ipynb' to review the code.
+
+## Open the file named 'Data Cleaning(nashville_housing).sql' to review the code.
 
 ## Project Overview
 
