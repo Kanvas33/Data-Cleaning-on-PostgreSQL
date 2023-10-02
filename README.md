@@ -1,6 +1,8 @@
 # Housing Data Cleaning and Transformation project
 
-## Open the file named 'Data Cleaning(nashville_housing).sql' to review the code.
+## Check the code by clicking on the link below:
+- ['Data Cleaning Project'](https://github.com/Kanvas33/Data-Cleaning-on-PostgreSQL/blob/main/Data%20Cleaning(nashville_housing).sql)
+
 
 ## Project Overview
 
