@@ -47,4 +47,4 @@ This repository contains **SQL code for cleaning and transforming housing data i
 
 This project demonstrates **effective data cleaning and transformation techniques using SQL**. By following the workflow outlined in the code, the `nashville_housing` table is now **ready for further analysis or reporting**. Feel free to explore the code and adapt it to your specific data cleaning needs.
 
-For any questions or inquiries, please contact me here or at jeff.farias@gmail.com.
+#### For any questions or further information, please feel free to contact me here or at jeff.farias@gmail.com.
