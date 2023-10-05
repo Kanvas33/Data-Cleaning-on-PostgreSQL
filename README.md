@@ -1,4 +1,5 @@
-# Housing Data Cleaning and Transformation project
+# Housing Data Cleaning and Transformation project <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+
 
 ## Check the code by clicking on the link below:
 - ['Data Cleaning Project'](https://github.com/Kanvas33/Data-Cleaning-on-PostgreSQL/blob/main/Data%20Cleaning(nashville_housing).sql)
